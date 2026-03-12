@@ -114,98 +114,104 @@ Find user with id = 2. - Done
 
 Get all users older than 25.  - Done
 
-Add a new user to the array.
+Add a new user to the array. - Done
 
-Remove a user with id = 3.
+Remove a user with id = 3.  - Done
 
-Update age of user with id = 1.
+Update age of user with id = 1. -Done
 
-Check if a user named "Sara" exists.
+Check if a user named "Sara" exists. -Done
 
-Create a new array containing only user names.
+Create a new array containing only user names. -Done
 
-Sort users by age.
+Sort users by age. -Done
 
-Find the youngest user.
+Find the youngest user. - Done
 
-Find the oldest user.
+Find the oldest user.  -Done
 
-Count total users.
+Count total users.  -Done
 
-Find average age of users.
+Find average age of users. -Done
 
-Convert users array into object {id : name}.
+Convert users array into object {id : name}.  
 
-Get users whose age is between 20–30.
+Get users whose age is between 20–30.  -Done
 
-Add a new property isActive:true to each user.
+Add a new property isActive:true to each user.  -Done
 
-Remove users younger than 23.
+Remove users younger than 23. -Done 
 
-Update name "John" → "Johnny".
+Update name "John" → "Johnny". - Done
 
-Find index of user with id 2.
+Find index of user with id 2.  -Done
 
-Check if any user age is greater than 40.
+Check if any user age is greater than 40. -Done
 
-Check if all users are above 18.
+Check if all users are above 18. - Done
 
-Get first two users.
+Get first two users. -Done
 
-Get last two users.
+Get last two users. 
 
-Find user whose name starts with "S".
+Find user whose name starts with "S". -Done
 
 Group users by age.
 
 ////Real-World Practice
 
-Print all product names.
+Print all product names. -Done
 
-Calculate total price of the cart.
+Calculate total price of the cart. -Done
 
-Increase quantity of product with id 2.
+Increase quantity of product with id 2. -Done
 
-Remove product with id 3.
+Remove product with id 3.-Done
 
-Add a new product to the cart.
+Add a new product to the cart. -Done
 
-Find product with highest price.
+Find product with highest price. -Done
 
-Find product with lowest price.
+Find product with lowest price.-Done
 
-Create a new array with only product names.
+Create a new array with only product names. -Done
 
-Calculate total quantity of all products.
+Calculate total quantity of all products. -Done
 
 Apply 10% discount to all products.
 
 Find products with price greater than 1000.
 
-Update price of laptop to 45000.
+Update price of laptop to 45000.- Done
 
-Check if cart contains "Mouse".
+Check if cart contains "Mouse". -Done
 
 Sort products by price.
 
-Convert cart into object {id : product}.
-
 Get total number of items in cart.
 
-Find product index by id.
+Find product index by id. 
 
-Add property inStock:true to all products.
+Add property inStock:true to all products. -
 
-Remove products with qty = 0.
+Remove products with qty = 0. - Done
 
-Find average price of products.
+Find average price of products. -Done
 
-Get first product in cart.
+Get first product in cart. -Done
 
-Get last product in cart.
+Get last product in cart. -Done
 
-Find products whose name length > 5.
+Find products whose name length > 5. - Done
 
-Convert product names to uppercase.
+Convert product names to uppercase. -Done
 
 Create a function addToCart(product) that adds product into cart.
+
+
+
+// // Task is to add the user data to the array ("name", "email", "id").
+// // Then perform based on function name addUser --> For Adding user
+// // removeUser --> For removing user by user Id and return the same user which is being removed
+// // editUserByEmail --> Editing user based on email provided
+// // userNameByEmail --> Get the user data based on the email provided
